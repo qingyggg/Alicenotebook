@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./packages",
+    "suppressImplicitAnyIndexErrors": true
+  }
+}
